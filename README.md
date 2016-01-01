@@ -3,6 +3,8 @@
 A Google Chrome browser extension that does its
 best to prettify printing of Basecamp 3 documents.
 
+![Printcamp screenshot](https://github.com/teddyzetterlund/printcamp/blob/master/printcamp-screenshot.png)
+
 ## Installation (for Users)
 
 Just [install the extension from the Chrome Web Store][1],
