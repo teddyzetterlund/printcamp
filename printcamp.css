@@ -1,0 +1,32 @@
+@media print {
+  @page { margin-top: 2cm; }
+
+  h1 {
+    margin-top: 0 !important;
+  }
+
+  img {
+    page-break-inside: avoid;
+  }
+
+  .recordable {
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+
+  .topnav,
+  .contact-support,
+  .project-header,
+  .perma-toolbar,
+  .recordable__last-updated,
+  .recordable__applause,
+  .recordable__history,
+  .thread--comments,
+  video,
+  audio,
+  object,
+  embed {
+    display: none !important;
+  }
+}
