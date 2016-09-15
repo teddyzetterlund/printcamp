@@ -1,5 +1,7 @@
 # Printcamp - Printable Basecamp 3 documents
 
+**DEPRECATED:** Basecamp has implemented their print support.
+
 A Google Chrome browser extension that does its
 best to prettify printing of Basecamp 3 documents.
 
